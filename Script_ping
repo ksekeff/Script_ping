@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Empresa: EQUATORIAL ENERGIA
+# Script by: K4lil S1mao
+# Update in: 03/03/2021
+
+# Menu de agências
+
+menu() {
+
+source ./painel.sh
+
+	read opcao
+
+source ./cases.sh
+
+}
+menu
+
+
